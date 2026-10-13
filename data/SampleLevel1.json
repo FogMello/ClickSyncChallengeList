@@ -1,6 +1,6 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
+    "id": 105918244,
+    "name": "easy sync challenge",
     "author": "netfedex",
     "creators": [],
     "verifier": "netfedex",
@@ -9,10 +9,10 @@
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "WinDoge",
+            "link": "https://www.youtube.com/watch?v=s_MkEGcHRSU",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         }
     ]
 }
