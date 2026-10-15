@@ -8,9 +8,27 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-    {
+        {
             "user": "Nossy1k",
             "link": "https://youtu.be/EvKGPAXJxgo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "wytrend",
+            "link": "https://medal.tv/games/geometry-dash/clips/nJjJkOEb19DBPEBqf?invite=cr-MSxQcUksNDg5MzM5MzMx",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Osha",
+            "link": "https://youtu.be/ytgGx00tp1A",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "aimdox",
+            "link": "https://medal.tv/games/geometry-dash/clips/nJmzl1p63bczRCRyl?invite=cr-MSw1UFUsNTM1MjQyMzcy",
             "percent": 100,
             "hz": 240
         }
