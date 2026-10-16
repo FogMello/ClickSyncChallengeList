@@ -8,6 +8,17 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-
+        {
+            "user": "aimdox",
+            "link": "https://medal.tv/games/geometry-dash/clips/nJtoPp4LIzU8dIoCl?invite=cr-MSx4RlYsNTM1MjQyMzcy",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "wytrend",
+            "link": "https://medal.tv/games/geometry-dash/clips/nJtMmDyPacqbiFw3u?invite=cr-MSw0a2YsNDg5MzM5MzMx",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
